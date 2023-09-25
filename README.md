@@ -2,7 +2,7 @@
 
 Este repositório contém cinco partes, cada uma correspondendo a uma questão ou exercício. As partes são organizadas da seguinte forma:
 
-## Exercício 1: Pasta "exercicio1"
+## Exercício 1: Pasta "exercicios"
 
 Este é o primeiro exercício, que envolve [descrição do exercício 1]. 
 
